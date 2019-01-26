@@ -1,0 +1,438 @@
+body{
+	padding-top: 66px;
+}
+
+.footer{
+	background-color: #272727;
+	color: #80807F;
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+.footer a{
+	color: #80807F;
+}
+
+.footer a:hover{
+	color: #fff;
+	text-decoration: none;
+}
+
+.footer ul{
+	list-style: none;
+	margin:0 auto;
+}
+
+.footer ul.right li{
+	float: left;
+	margin-left:10px;
+}
+
+input, select, textarea{
+	color: #000 !important;
+}
+
+.orange-bg{
+	background-color: #E96840;
+	color: white;
+}
+
+.white-text{
+	color: #fff;
+	text-shadow: 0px 0px 4px #000;
+}
+
+.rem-1{
+	font-size: 1em;
+}
+
+.rem-2{
+	font-size: 2em;
+}
+
+.rem-3{
+	font-size: 3em;
+}
+
+.rem-4{
+	font-size: 4em;
+}
+
+.rem-5{
+	font-size: 5em;
+}
+
+.rem-5{
+	font-size: 5em;
+}
+
+.rem-6{
+	font-size: 6em;
+}
+
+.rem-7{
+	font-size: 7em;
+}
+
+.rem-8{
+	font-size: 8em;
+}
+
+.rem-9{
+	font-size: 9em;
+}
+
+.rem-10{
+	font-size: 10em;
+}
+
+.banner-image{
+	background-image: url('../img/hero4.jpg');
+	background-position: center center;
+	background-size: cover;
+	position: relative;
+}
+
+.fullscreen{
+	min-height: calc(100vh - 66px);
+
+}
+
+.centered{
+	position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.hidden{
+	display: none;
+}
+
+.profile-picture{
+	cursor: pointer;
+}
+
+.size-15{
+	height: 15px;
+	width: auto;
+}
+
+.size-20{
+	height: 20px;
+	width: auto;
+}
+
+.size-22{
+	height: 22px;
+	width: auto;
+}
+
+.size-25{
+	height: 25px;
+	width: auto;
+}
+
+.size-30{
+	height: 30px;
+	width: auto;
+}
+
+.size-35{
+	height: 35px;
+	width: auto;
+}
+
+.size-40{
+	height: 40px;
+	width: auto;
+}
+
+/*
+Margin top helpers
+*/
+
+.mt-5{
+	margin-top: 5px;
+}
+
+.mt-10{
+	margin-top: 10px;
+}
+
+.mt-15{
+	margin-top: 15px;
+}
+
+.mt-20{
+	margin-top: 20px;
+}
+
+.mt-25{
+	margin-top: 25px;
+}
+
+.mt-30{
+	margin-top: 30px;
+}
+
+.mt-35{
+	margin-top: 35px;
+}
+
+.mt-40{
+	margin-top: 40px;
+}
+
+.mt-45{
+	margin-top: 45px;
+}
+
+.mt-50{
+	margin-top: 50px;
+}
+
+.mt-75{
+	margin-top: 75px;
+}
+
+.mt-100{
+	margin-top: 100px;
+}
+
+/*
+	Margin Bottom
+*/
+
+.mb-5{
+	margin-bottom: 5px;
+}
+
+.mb-10{
+	margin-bottom: 10px;
+}
+
+.mb-15{
+	margin-bottom: 15px;
+}
+
+.mb-20{
+	margin-bottom: 20px;
+}
+
+.mb-25{
+	margin-bottom: 25px;
+}
+
+.mb-30{
+	margin-bottom: 30px;
+}
+
+.mb-35{
+	margin-bottom: 35px;
+}
+
+.mb-40{
+	margin-bottom: 40px;
+}
+
+.mb-45{
+	margin-bottom: 45px;
+}
+
+.mb-50{
+	margin-bottom: 50px;
+}
+
+.mb-75{
+	margin-bottom: 75px;
+}
+
+.mb-100{
+	margin-bottom: 100px;
+}
+
+/*
+Margin top Bottom Hepler
+*/
+
+.my-5{
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.my-10{
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
+.my-15{
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+.my-20{
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.my-25{
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+
+.my-30{
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+.my-35{
+	margin-top: 35px;
+	margin-bottom: 35px;
+}
+
+.my-40{
+	margin-top: 40px;
+	margin-bottom: 40px;
+}
+
+.my-45{
+	margin-top: 45px;
+	margin-bottom: 45px;
+}
+
+.my-50{
+	margin-top: 5px;
+	margin-bottom: 5px;
+}
+
+.my-75{
+	margin-top: 75px;
+	margin-bottom: 75px;
+}
+
+.my-100{
+	margin-top: 100px;
+	margin-bottom: 100px;
+}
+
+/*
+	Margin top negative
+*/
+
+.mtn-1{
+	margin-top: -1px;
+}
+
+.mtn-2{
+	margin-top: -2px;
+}
+
+.mtn-3{
+	margin-top: -3px;
+}
+
+.mtn-4{
+	margin-top: -4px;
+}
+
+.mtn-5{
+	margin-top: -5px;
+}
+
+.mtn-6{
+	margin-top: -6px;
+}
+
+.mtn-7{
+	margin-top: -7px;
+}
+
+.mtn-8{
+	margin-top: -8px;
+}
+
+.mtn-9{
+	margin-top: -9px;
+}
+
+.mtn-10{
+	margin-top: -10px;
+}
+
+.mtn-15{
+	margin-top: -15px;
+}
+
+.mtn-20{
+	margin-top: -20px;
+}
+
+.mtn-25{
+	margin-top: -25px;
+}
+
+.mtn-30{
+	margin-top: -30px;
+}
+
+.mtn-35{
+	margin-top: -35px;
+}
+
+.mtn-40{
+	margin-top: -40px;
+}
+
+.mtn-45{
+	margin-top: -45px;
+}
+
+.mtn-50{
+	margin-top: -50px;
+}
+
+.mtn-75{
+	margin-top: -75px;
+}
+
+.mtn-100{
+	margin-top: -100px;
+}
+
+.py-50{
+	padding-top: 50px;
+	padding-bottom: 50px;
+}
+
+.py-75{
+	padding-top: 75px;
+	padding-bottom: 75px;
+}
+
+.py-100{
+	padding-top: 100px;
+	padding-bottom: 100px;
+}
+
+.thumbnail-float{
+	position: absolute;
+
+	bottom:25px;
+	left: 25px;
+}
+
+.cover-edit{
+	position: absolute;
+
+	top:25px;
+	right: 25px;
+}
+
+.cover-picture{
+	cursor: pointer;
+}
+
+.white-border{
+	border: 4px solid #fff;
+}
